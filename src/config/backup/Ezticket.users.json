@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "email": "nkeyskuo124@gmail.com",
+  "fullname": "Kuo Nhan Dung",
+  "phone": "0767916592",
+  "address": "Illinois St",
+  "level": 2,
+  "createdAt": {
+    "$date": "2024-01-03T11:54:31.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-06T02:02:17.662Z"
+  },
+  "__v": 0,
+  "business": {
+    "$oid": "6598b4a904a3f7c9bcbda770"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a1dd2803e724f3d3ef257"
+  },
+  "email": "sheldon1247@gmail.com",
+  "fullname": "Trần Minh Đức",
+  "phone": "0767916592",
+  "address": "600 Nguyễn Kiệm P9 Q. Phú Nhuận",
+  "level": 1,
+  "createdAt": {
+    "$date": "2024-01-07T03:43:14.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T03:43:14.640Z"
+  },
+  "__v": 0
+}]

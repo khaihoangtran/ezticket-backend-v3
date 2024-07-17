@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65ae3d1bf8cd36a3d0dc78c3"
+  },
+  "category_name": "Nhạc sống",
+  "category_code": 807,
+  "slug": "nhac-song",
+  "createdAt": {
+    "$date": "2024-01-22T10:02:03.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T10:02:03.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae3d24f8cd36a3d0dc78c5"
+  },
+  "category_name": "Sân khấu nghệ thuật",
+  "category_code": 331,
+  "slug": "san-khau-nghe-thuat",
+  "createdAt": {
+    "$date": "2024-01-22T10:02:12.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T10:02:12.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae3d2ef8cd36a3d0dc78c7"
+  },
+  "category_name": "Hội nghị - triển lãm",
+  "category_code": 814,
+  "slug": "hoi-nghi-trien-lam",
+  "createdAt": {
+    "$date": "2024-01-22T10:02:22.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T10:02:22.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae3d3df8cd36a3d0dc78c9"
+  },
+  "category_name": "Du lịch - khám phá",
+  "category_code": 578,
+  "slug": "du-lich-kham-pha",
+  "createdAt": {
+    "$date": "2024-01-22T10:02:37.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T10:02:37.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b86f9b430b290fc7efa650"
+  },
+  "category_name": "Thể dục thể thao",
+  "category_code": 21,
+  "slug": "the-duc-the-thao",
+  "createdAt": {
+    "$date": "2024-01-30T03:40:11.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T03:40:11.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b86fb4430b290fc7efa652"
+  },
+  "category_name": "Khoa học - diễn thuyết",
+  "category_code": 211,
+  "slug": "khoa-hoc-dien-thuyet",
+  "createdAt": {
+    "$date": "2024-01-30T03:40:36.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T03:40:36.329Z"
+  },
+  "__v": 0
+}]

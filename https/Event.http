@@ -1,0 +1,23 @@
+###
+
+PUT http://localhost:5000/api/event/update/6596f37a3c2636a585e6908c
+Content-Type: application/json 
+
+{
+    "name": "Event Test 1",
+    "status": "running",
+    "categories": "6596af9276222539fdf1d4f8"
+}
+
+###
+
+DELETE http://localhost:5000/api/event/delete/6596b4bcf006c42e69f32209
+
+
+### 
+
+GET http://localhost:5000/api/event/search?
+
+###
+
+GET http://localhost:5000/api/event/detail/6596f37a3c2636a585e6908c

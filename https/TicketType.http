@@ -1,0 +1,17 @@
+
+
+###
+
+POST http://localhost:5000/api/ticket_type/create 
+Content-Type: application/json 
+
+{
+    "ticket_name": "Hoàng hôn",
+    "price": 300000,
+    "event": "65b7e037a538385959c740d3"
+}
+
+
+###
+
+DELETE http://localhost:5000/api/ticket_type/delete/65bb1d2193bbf90c49dfb915

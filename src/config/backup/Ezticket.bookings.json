@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "65f28d2a35c06245c264fca7"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65d0e669925851d346ed8280"
+      },
+      "price": 400000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f28d2a35c06245c264fca8"
+      }
+    }
+  ],
+  "trade_code": "EZ75480355",
+  "temporary_cost": 400000,
+  "status": "refunded",
+  "payment_type": "stripe",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T05:37:46.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T19:24:46.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2aec77a456fab1d659b60"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65d0e67e925851d346ed8286"
+      },
+      "price": 1000000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f2aec77a456fab1d659b61"
+      }
+    },
+    {
+      "ticket_type": {
+        "$oid": "65d0e669925851d346ed8280"
+      },
+      "price": 400000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f2aec77a456fab1d659b62"
+      }
+    }
+  ],
+  "trade_code": "EZ82299197",
+  "temporary_cost": 1400000,
+  "status": "refunded",
+  "payment_type": "paypal",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T08:01:11.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T19:22:31.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f35051aa8a4320dfd4e69b"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65f3500eaa8a4320dfd4e66a"
+      },
+      "price": 500000,
+      "qty": 2,
+      "_id": {
+        "$oid": "65f35051aa8a4320dfd4e69c"
+      }
+    },
+    {
+      "ticket_type": {
+        "$oid": "65f35021aa8a4320dfd4e670"
+      },
+      "price": 2000000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f35051aa8a4320dfd4e69d"
+      }
+    }
+  ],
+  "trade_code": "EZ1857361",
+  "temporary_cost": 3000000,
+  "status": "refunded",
+  "payment_type": "stripe",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T19:30:25.371Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T19:31:46.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f40aff1942f1eb6c6de2a7"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65f40ad61942f1eb6c6de286"
+      },
+      "price": 650000,
+      "qty": 3,
+      "_id": {
+        "$oid": "65f40aff1942f1eb6c6de2a8"
+      }
+    }
+  ],
+  "trade_code": "EZ68812946",
+  "temporary_cost": 1950000,
+  "status": "refunded",
+  "payment_type": "stripe",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T08:46:55.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:39:56.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f45e171ab6d281acdba6ed"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65f3500eaa8a4320dfd4e66a"
+      },
+      "price": 500000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f45e171ab6d281acdba6ee"
+      }
+    },
+    {
+      "ticket_type": {
+        "$oid": "65f35016aa8a4320dfd4e66d"
+      },
+      "price": 1000000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f45e171ab6d281acdba6ef"
+      }
+    },
+    {
+      "ticket_type": {
+        "$oid": "65f35021aa8a4320dfd4e670"
+      },
+      "price": 2000000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f45e171ab6d281acdba6f0"
+      }
+    }
+  ],
+  "trade_code": "EZ94885896",
+  "temporary_cost": 3500000,
+  "status": "completed",
+  "payment_type": "stripe",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T14:41:27.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f512301ab6d281acdba7a4"
+  },
+  "tickets": [
+    {
+      "ticket_type": {
+        "$oid": "65f3500eaa8a4320dfd4e66a"
+      },
+      "price": 500000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f512301ab6d281acdba7a5"
+      }
+    },
+    {
+      "ticket_type": {
+        "$oid": "65f35016aa8a4320dfd4e66d"
+      },
+      "price": 1000000,
+      "qty": 1,
+      "_id": {
+        "$oid": "65f512301ab6d281acdba7a6"
+      }
+    }
+  ],
+  "trade_code": "EZ95530018",
+  "temporary_cost": 1500000,
+  "status": "completed",
+  "payment_type": "stripe",
+  "customer": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "createdAt": {
+    "$date": "2024-03-16T03:29:52.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.664Z"
+  },
+  "__v": 0
+}]

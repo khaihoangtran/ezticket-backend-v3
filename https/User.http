@@ -1,0 +1,33 @@
+###
+
+POST http://localhost:5000/api/user/register
+content-type: application/json
+
+{
+    "email": "nkeyskuo124@gmail.com",
+    "fullname": "Kuo Nhan Dung",
+    "address": "Illinois St",
+    "phone": "0767916592"
+}
+
+###
+
+POST http://localhost:5000/api/user/login
+content-type: application/json
+
+{
+    "email": "nkeyskuo124@gmail.com"
+}
+
+### 
+POST http://localhost:5000/api/user/confirm_otp
+content-type: application/json
+
+{
+    "code": "3964",
+    "email": "nkeyskuo124@gmail.com"
+}
+
+###
+GET http://localhost:5000/api/user/test_authentication
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTk1NGFmN2NkMzJmYjA5NzcxMDAwMDQiLCJlbWFpbCI6Im5rZXlza3VvMTI0QGdtYWlsLmNvbSIsImZ1bGxuYW1lIjoiS3VvIE5oYW4gRHVuZyIsInBob25lIjoiMDc2NzkxNjU5MiIsImFkZHJlc3MiOiJJbGxpbm9pcyBTdCIsImxldmVsIjoxLCJjcmVhdGVkQXQiOiIyMDI0LTAxLTAzVDExOjU0OjMxLjkyNFoiLCJ1cGRhdGVkQXQiOiIyMDI0LTAxLTAzVDExOjU0OjMxLjkyNFoiLCJfX3YiOjAsImlhdCI6MTcwNDI5MzM0MywiZXhwIjoxNzA0MjkzNDAzfQ.iIZhS1CUfS4m2yabZYM3ZmKoFZvIVHN4d8-jLnejVF8

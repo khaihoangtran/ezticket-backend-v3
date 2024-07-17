@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65f45e321ab6d281acdba70a"
+  },
+  "owner": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "trade_code": "EZ94885896",
+  "ticket_type": {
+    "$oid": "65f3500eaa8a4320dfd4e66a"
+  },
+  "ticket_code": "4BC7A73C",
+  "expiry": {
+    "$date": "2024-04-15T14:41:54.379Z"
+  },
+  "status": "sold",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-15T14:41:54.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f45e321ab6d281acdba70e"
+  },
+  "owner": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "trade_code": "EZ94885896",
+  "ticket_type": {
+    "$oid": "65f35016aa8a4320dfd4e66d"
+  },
+  "ticket_code": "4BDC47F0",
+  "expiry": {
+    "$date": "2024-04-15T14:41:54.392Z"
+  },
+  "status": "sold",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-15T14:41:54.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f45e321ab6d281acdba712"
+  },
+  "owner": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "trade_code": "EZ94885896",
+  "ticket_type": {
+    "$oid": "65f35021aa8a4320dfd4e670"
+  },
+  "ticket_code": "3CD3FE0D",
+  "expiry": {
+    "$date": "2024-04-15T14:41:54.395Z"
+  },
+  "status": "sold",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-15T14:41:54.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.397Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f5125e1ab6d281acdba7bc"
+  },
+  "owner": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "trade_code": "EZ95530018",
+  "ticket_type": {
+    "$oid": "65f3500eaa8a4320dfd4e66a"
+  },
+  "ticket_code": "9A46A5E2",
+  "expiry": {
+    "$date": "2024-04-16T03:30:38.668Z"
+  },
+  "status": "sold",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-16T03:30:38.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f5125e1ab6d281acdba7c0"
+  },
+  "owner": {
+    "$oid": "65954af7cd32fb0977100004"
+  },
+  "trade_code": "EZ95530018",
+  "ticket_type": {
+    "$oid": "65f35016aa8a4320dfd4e66d"
+  },
+  "ticket_code": "19C3A68F",
+  "expiry": {
+    "$date": "2024-04-16T03:30:38.672Z"
+  },
+  "status": "sold",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-16T03:30:38.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.673Z"
+  }
+}]

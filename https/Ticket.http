@@ -1,0 +1,37 @@
+###
+
+POST http://localhost:5000/api/ticket/create
+Content-Type: application/json 
+
+{
+    "name": "Vé Premium",
+    "event": "6597959195ddc00510319c0e",
+    "price": 5000000,
+    "qty": 5
+}
+
+###
+
+PUT http://localhost:5000/api/ticket/update/6597b99db9b4860614fef3a8
+Content-Type: application/json
+
+{
+    "status": "unavailable"
+}
+
+###
+
+DELETE http://localhost:5000/api/ticket/delete/6597b99db9b4860614fef3ac
+
+###
+
+GET http://localhost:5000/api/ticket/detail/7E36BE1F
+
+
+###
+
+GET http://localhost:5000/api/ticket/search?owner=65954af7cd32fb0977100004
+
+###
+
+GET http://localhost:5000/api/ticket/group_by_event/6597959195ddc00510319c0e

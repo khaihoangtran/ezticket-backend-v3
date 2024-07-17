@@ -1,0 +1,9 @@
+###
+
+
+POST http://localhost:5000/api/category/create
+content-type: application/json 
+
+{
+    "category_name": "Khoa học - diễn thuyết"
+}

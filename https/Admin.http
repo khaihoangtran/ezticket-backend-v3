@@ -1,0 +1,14 @@
+###
+
+POST http://localhost:5000/api/admin/search_booking
+Content-Type: application/json
+
+{
+    "startDate": "2023-01-23T08:34:16.956+00:00",
+    "endDate": "2024-02-24T08:34:16.956+00:00",
+    "phone": "0767916592"
+}
+
+###
+
+GET http://localhost:5000/api/admin/refund_list

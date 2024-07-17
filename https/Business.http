@@ -1,0 +1,28 @@
+###
+
+POST http://localhost:5000/api/business/create/65954af7cd32fb0977100004
+Content-Type: application/json
+
+{
+    "business_name": "Công ty TNHH phần mềm SUD Technology",
+    "business_type": "Kinh doanh",
+    "tax_no": "3952475205",
+    "contact": "sud.technology@gmail.com",
+    "hotline": "0903740813",
+    "location": "Tòa nhà X, số 20 đường A, Phường 10, Q12"
+}
+
+###
+
+PUT http://localhost:5000/api/business/update/6598b4a904a3f7c9bcbda770
+Content-Type: application/json
+
+{
+    "business_name": "Công ty TNHH phần mềm SUD Technology",
+    "business_type": "Kinh doanh",
+    "tax_no": "3952475205",
+    "contact": "sud.technology@gmail.com",
+    "hotline": "0903740813",
+    "location": "Tòa nhà Y, số 20 đường A, Phường 10, Q12"
+}
+

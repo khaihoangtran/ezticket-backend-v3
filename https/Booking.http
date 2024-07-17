@@ -1,0 +1,31 @@
+###
+
+POST http://localhost:5000/api/booking/create 
+Content-Type: application/json
+
+{
+    "tickets": "6597b99db9b4860614fef3aa,6597b99db9b4860614fef3a9",
+    "payment_type": "paypal",
+    "total": 400000,
+    "note": "...",
+    "customer": "65954af7cd32fb0977100004"
+}
+
+
+###
+
+PUT http://localhost:5000/api/booking/cancel/65c61bb03b832b21a94a514e
+
+###
+
+PUT http://localhost:5000/api/booking/complete/6598437a8b2f5b26f622d533
+
+
+###
+
+GET http://localhost:5000/api/booking/detail/6597e2a46c9b7771308a3203
+
+
+###
+
+GET http://localhost:5000/api/booking/search?

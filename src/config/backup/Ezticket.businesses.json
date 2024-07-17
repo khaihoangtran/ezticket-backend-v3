@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6598b4a904a3f7c9bcbda770"
+  },
+  "business_name": "Công ty TNHH phần mềm SUD Technology",
+  "business_type": "Kinh doanh",
+  "tax_no": "3952475205",
+  "contact": "sud.technology@gmail.com",
+  "hotline": "0903740813",
+  "location": "Tòa nhà Y, số 20 đường A, Phường 10, Q12",
+  "createdAt": {
+    "$date": "2024-01-06T02:02:17.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-06T02:25:17.381Z"
+  },
+  "__v": 0
+}]

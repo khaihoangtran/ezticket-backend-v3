@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65f28d5a35c06245c264fcb9"
+  },
+  "event": {
+    "$oid": "65af7a089edbf9c6f8ea5bf3"
+  },
+  "booking": {
+    "$oid": "65f28d2a35c06245c264fca7"
+  },
+  "tax": 0.06,
+  "total": 424000,
+  "createdAt": {
+    "$date": "2024-03-14T05:38:34.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T05:38:34.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2aee57a456fab1d659b72"
+  },
+  "event": {
+    "$oid": "65af7a089edbf9c6f8ea5bf3"
+  },
+  "booking": {
+    "$oid": "65f2aec77a456fab1d659b60"
+  },
+  "tax": 0.06,
+  "total": 1484000,
+  "createdAt": {
+    "$date": "2024-03-14T08:01:41.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T08:01:41.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f3506eaa8a4320dfd4e6ad"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "booking": {
+    "$oid": "65f35051aa8a4320dfd4e69b"
+  },
+  "tax": 0.06,
+  "total": 3180000,
+  "createdAt": {
+    "$date": "2024-03-14T19:30:54.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T19:30:54.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f40b1c1942f1eb6c6de2b5"
+  },
+  "event": {
+    "$oid": "65b874d7430b290fc7efa657"
+  },
+  "booking": {
+    "$oid": "65f40aff1942f1eb6c6de2a7"
+  },
+  "tax": 0.06,
+  "total": 2067000,
+  "createdAt": {
+    "$date": "2024-03-15T08:47:24.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T08:47:24.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f45e321ab6d281acdba703"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "booking": {
+    "$oid": "65f45e171ab6d281acdba6ed"
+  },
+  "tax": 0.06,
+  "total": 3710000,
+  "createdAt": {
+    "$date": "2024-03-15T14:41:54.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5125e1ab6d281acdba7b6"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "booking": {
+    "$oid": "65f512301ab6d281acdba7a4"
+  },
+  "tax": 0.06,
+  "total": 1590000,
+  "createdAt": {
+    "$date": "2024-03-16T03:30:38.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.662Z"
+  },
+  "__v": 0
+}]

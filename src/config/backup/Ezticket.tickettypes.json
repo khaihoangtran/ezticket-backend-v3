@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "65d0e669925851d346ed8280"
+  },
+  "event": {
+    "$oid": "65af7a089edbf9c6f8ea5bf3"
+  },
+  "ticket_name": "Vé cơ bản",
+  "price": 400000,
+  "n_sold": 8,
+  "n_stock": 32,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-02-17T17:01:29.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T08:01:41.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d0e675925851d346ed8283"
+  },
+  "event": {
+    "$oid": "65af7a089edbf9c6f8ea5bf3"
+  },
+  "ticket_name": "Vé nâng cao",
+  "price": 500000,
+  "n_sold": 5,
+  "n_stock": 5,
+  "is_selling": false,
+  "createdAt": {
+    "$date": "2024-02-17T17:01:41.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T06:24:42.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d0e67e925851d346ed8286"
+  },
+  "event": {
+    "$oid": "65af7a089edbf9c6f8ea5bf3"
+  },
+  "ticket_name": "Vé vip",
+  "price": 1000000,
+  "n_sold": 3,
+  "n_stock": 2,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-02-17T17:01:50.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T08:01:41.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f3500eaa8a4320dfd4e66a"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "ticket_name": "Vé Khu A",
+  "price": 500000,
+  "n_sold": 4,
+  "n_stock": 6,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-14T19:29:18.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f35016aa8a4320dfd4e66d"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "ticket_name": "Vé Khu B",
+  "price": 1000000,
+  "n_sold": 2,
+  "n_stock": 3,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-14T19:29:26.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:30:38.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f35021aa8a4320dfd4e670"
+  },
+  "event": {
+    "$oid": "65b66714c60e8a38627462c7"
+  },
+  "ticket_name": "Vé Khu C",
+  "price": 2000000,
+  "n_sold": 2,
+  "n_stock": 3,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-14T19:29:37.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:41:54.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f40ad61942f1eb6c6de286"
+  },
+  "event": {
+    "$oid": "65b874d7430b290fc7efa657"
+  },
+  "ticket_name": "Vé tham quan",
+  "price": 650000,
+  "n_sold": 3,
+  "n_stock": 97,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-15T08:46:14.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T08:47:24.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f51413799286b76df8cff3"
+  },
+  "event": {
+    "$oid": "65f513af799286b76df8cfe7"
+  },
+  "ticket_name": "Vé hàng A",
+  "price": 400000,
+  "n_sold": 0,
+  "n_stock": 20,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T03:37:55.793Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:38:17.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5141e799286b76df8cff6"
+  },
+  "event": {
+    "$oid": "65f513af799286b76df8cfe7"
+  },
+  "ticket_name": "Vé hàn D",
+  "price": 700000,
+  "n_sold": 0,
+  "n_stock": 10,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T03:38:06.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T03:38:17.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5b302a65e52653d9663cc"
+  },
+  "event": {
+    "$oid": "65f5a7a24e6b0ee16b0ba347"
+  },
+  "ticket_name": "EARLY BIRD",
+  "price": 1300000,
+  "n_sold": 0,
+  "n_stock": 20,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T14:56:02.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T14:57:32.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5b311a65e52653d9663cf"
+  },
+  "event": {
+    "$oid": "65f5a7a24e6b0ee16b0ba347"
+  },
+  "ticket_name": "STANDARD",
+  "price": 1500000,
+  "n_sold": 0,
+  "n_stock": 10,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T14:56:17.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T14:57:32.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5b31da65e52653d9663d2"
+  },
+  "event": {
+    "$oid": "65f5a7a24e6b0ee16b0ba347"
+  },
+  "ticket_name": "ON THE DOOR",
+  "price": 1700000,
+  "n_sold": 0,
+  "n_stock": 10,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T14:56:29.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T14:57:32.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5b341a65e52653d9663d5"
+  },
+  "event": {
+    "$oid": "65f5a7a24e6b0ee16b0ba347"
+  },
+  "ticket_name": "EXCLUSIVE ROOM",
+  "price": 1000000,
+  "n_sold": 0,
+  "n_stock": 30,
+  "is_selling": true,
+  "createdAt": {
+    "$date": "2024-03-16T14:57:05.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T14:57:32.867Z"
+  },
+  "__v": 0
+}]
